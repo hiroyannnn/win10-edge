@@ -18,6 +18,6 @@ $ git clone https://github.com/hiroyannnn/win10-edge.git
 ###################### 
 # VM create
 ###################### 
-$ git up
+$ vagrant up
 
 ```
